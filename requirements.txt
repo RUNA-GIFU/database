@@ -1,0 +1,6 @@
+djangorestframework
+mysqlclient
+
+Django==5.2.3 # あなたのDjangoのバージョンに合わせて
+mysqlclient==2.2.0 # MySQL接続用ライブラリ
+# 他の既存のライブラリ...
